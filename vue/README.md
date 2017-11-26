@@ -1,7 +1,9 @@
 # vue
 
 > A Vue.js project
+
 > 本想忍着不用vuex实现这个todos，结果用bus仿佛造了一个简易版的vuex :sweat: :sweat: :sweat:
+
 > css是抄官网上的，逻辑是自己写的
 
 ## Build Setup
